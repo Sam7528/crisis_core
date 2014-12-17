@@ -1,0 +1,90 @@
+body {
+	background-image: url(Zack.jpg);
+}
+audio {
+	height:50px;
+	width:100%;
+}
+.jackie {
+	width:100%;
+	height:600px;
+	border-radius: 20px;
+	background-color: rgba(0,0,0,0.5);
+	border:1px solid #06D7BB;
+}
+.chan {
+	width:100%;
+	height:250px;
+	border-radius: 20px;
+	margin-bottom: 20px;
+	background-color: rgba(69,5,111,0.5);
+	padding-top: 25px;
+	border:1px solid #06D7BB;
+}
+.bruce {
+	width:100%;
+	height:500px;
+	border-radius: 20px;
+	opacity:0.9;
+}
+.lee {
+	width:100%;
+	height:150px;
+	text-align: center;
+	border-radius: 20px;
+	background-color : rgba(87,227,91,0.5);
+}
+.espace {
+	height:90px;
+	border-radius: 20px;
+}
+.carousel-inner {
+	margin-top: 20px;
+}
+#crisis {
+	margin: 10% 10% auto 10%;
+	color:purple;
+}
+#shadow {
+	margin: auto;
+	display: block;
+	border-radius: 20px;
+	
+	box-shadow: 25px 25px 30px 0px rgba(8, 216, 188, 0.7); 
+	width:300px;
+}
+.twitter-timeline {
+	border-radius: 20px;
+}
+#fb {
+	display:block;
+	margin-left: 35%;
+}
+.navbar {
+	background-color:purple;
+	height:50px;
+	width:100%;
+	position:fixed;
+}
+.carousel-inner {
+	height:487px;
+	border-radius: 20px;
+	border:1px solid #06D7BB;
+}
+.carousel-control.left, .carousel-control.right 
+{
+	background-image:none;
+}
+.carousel-caption {
+	opacity:0;
+}
+.carousel-indicators li {
+	border:1px solid #06D7BB;
+}
+.carousel-indicators .active {
+	background-color:#06D7BB;
+}
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-prev, .carousel-control .icon-next {	
+	font-size:60px;
+	color:#06D7BB;
+}
