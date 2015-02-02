@@ -1,5 +1,5 @@
 body {
-	background-image: url(Zack.jpg);
+	background: url(Images/Zack.jpg) fixed;
 }
 audio {
 	height:50px;
